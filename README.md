@@ -1,2 +1,2 @@
 # Java
-Covering basics of Java
+Covering various concepts of Java
