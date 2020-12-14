@@ -29,5 +29,4 @@ public class ArrayExample {
 		 * int[] e = new int[5],f = new int[8]; --'e' is an int array with size 5 and 'f' is an int array with size 8
 		 */
 	}
-
 }
