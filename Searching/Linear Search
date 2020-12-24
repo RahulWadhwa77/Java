@@ -9,7 +9,7 @@ public class LinearSearch {
 		int findElement = 1;	//Element to be searched.
 		
 		for(int i=0;i<arr.length;i++) {
-			if(arr[i] == findElement) {
+			if(arr[i] == findElement) {     //in case of String/char type use .equals()
 				System.out.println("Element '"+findElement+"' is at index: "+i);
 				flag = true;
 				break;
