@@ -12,7 +12,7 @@ public class BinarySearch {
 		boolean flag = false;
 		while(li <= ui) {
 			int mid = (li + ui) / 2;
-			if(arr[mid] == findElement) {
+			if(arr[mid] == findElement) {		//finding mid element after each updation of lower and upper index 
 				System.out.println("Element " +findElement+ " is at index: " +mid);
 				flag = true;
 				break;
