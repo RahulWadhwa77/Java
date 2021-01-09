@@ -1,8 +1,10 @@
+package revision;
+
 class SelectionSort {
   
    public static void main(String args[]){
      
-      int array[] = {10, 20, 25, 63, 96, 57};
+      int array[] = {10, 25, 20, 63, 96, 57};   //unsorted int type array.
       int size = array.length;
 
       for (int i = 0 ;i < size-1; i++){
