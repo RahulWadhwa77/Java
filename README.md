@@ -16,4 +16,9 @@
       <li>Linear Search</li>
       <li>Binary Search</li>
     </ul>
+  <li>Inheritence
+    <ul>
+      <li>Single-Level</li>
+      <li>Multi-Level</li>
+    </ul>
 </ul>
