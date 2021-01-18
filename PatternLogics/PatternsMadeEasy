@@ -2,4 +2,8 @@ Which ever programming language one use, one question that always comes is print
 These are easy once you know the basics and 3 simple rules.
 
 Generally printing a pattern consists of printing numbers, alphabets or a character in the form of rows and columns.
-This is very easy once you know how you can manipulate the loops on your wish.
+This is very easy once you know how you can manipulate the loops on your wish
+
+1. Identify the number of rows to be printed.
+2. Identify how many columns are required to be printed in i'th row.
+
