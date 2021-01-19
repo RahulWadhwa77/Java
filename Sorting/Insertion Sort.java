@@ -6,7 +6,8 @@ public class InsertionSort {
 
 	public static void main(String[] args) {
 		int[] arr = {18, 11, 9, 3, 5};
-		System.out.println("Array after each swap: ");
+		
+		
 		for(int i = 1;i < arr.length;i++){
             int temp = arr[i];
             int j = i;
@@ -17,7 +18,7 @@ public class InsertionSort {
             arr[j] = temp;
         
             
-            		System.out.println(Arrays.toString(arr));
+            		
         	} 
 		System.out.println("\nFinal Sorted array: ");
 		System.out.println(Arrays.toString(arr));
