@@ -23,5 +23,6 @@
     </ul>
     <li>Pattern Logics
       <ul>
+        <li>Pattern 1<img src = "PatternLogics/imgs/Pattern1.png"></li>
       </ul>
 </ul>
