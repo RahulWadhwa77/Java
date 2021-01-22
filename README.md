@@ -22,7 +22,4 @@
       <li>Multi-Level</li>
     </ul>
     <li>Pattern Logics
-      <ul>
-        <li>Pattern 1<br><img src = "PatternLogics/imgs/Pattern1.PNG"></li>
-      </ul>
 </ul>
