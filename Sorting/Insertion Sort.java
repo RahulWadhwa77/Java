@@ -16,8 +16,8 @@ public class InsertionSort {
             	   }
             	   arr[j] = temp;	
         	} 
+		
 		System.out.println("\nFinal Sorted array: ");
 		System.out.println(Arrays.toString(arr));
 	}
-
 }
