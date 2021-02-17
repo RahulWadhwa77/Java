@@ -20,6 +20,4 @@ class ClassB extends ClassA {				//use of keyword extends.
 		object.methodA();			//calling mehtodA() of ClassA i.e parent class.
 		object.methodB();			//calling methodB() within the class. 
 	}
-
 }
-
