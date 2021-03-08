@@ -7,8 +7,10 @@ public class Solution {
 	public static void main(String[] args) {
 		
         	Scanner sc = new Scanner(System.in);
+		
         	System.out.println("Enter number of rows:");
         	int n = sc.nextInt();     //number of lines.  
+		
         	int i = 1;
         	while(i <= n){
             		int sp = 1;
@@ -23,6 +25,7 @@ public class Solution {
             		}
             		i++;
            	 System.out.println();
+			
         	}
 	}
 }
