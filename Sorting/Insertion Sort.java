@@ -5,6 +5,7 @@ import java.util.*;
 public class InsertionSort {
 
 	public static void main(String[] args) {
+		
 		int[] arr = {18, 11, 9, 3, 5};
 		
 		for(int i = 1;i < arr.length;i++){
