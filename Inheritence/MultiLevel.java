@@ -12,6 +12,7 @@ class ClassA{
 class ClassB extends ClassA{
 	
 	void methodB() {
+		
 		System.out.println("I am a method of ClassB");
 	}
 }
@@ -25,7 +26,9 @@ class ClassC extends ClassB{
 		objectC.methodB();
 		objectC.methodC();
 	}
+	
 	void methodC() {
+		
 		System.out.println("I am a method of ClassC");
 	}
 }
