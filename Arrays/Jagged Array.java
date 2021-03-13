@@ -6,6 +6,7 @@ package revision;
 public class ArrayExample {
 
 	public static void main(String[] args) {
+		
 		int[][] arr1;				     //declaration of array 'arr1'
 		arr1 = new int[2][];		             //notice it has 2 rows but number of columns is not specified
 		
