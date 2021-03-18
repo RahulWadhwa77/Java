@@ -5,7 +5,6 @@ package revision;
 public class BinarySearch {
 
 	public static void main(String[] args) {
-		
 		int[] arr = new int[] {2, 5, 8, 9, 11, 19, 23};
 		int findElement = 8;
 		int li = 0;					//initialized lower index
