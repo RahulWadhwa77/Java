@@ -18,11 +18,13 @@ public class Solution {
                 		System.out.print(" ");
                 		sp++;
             		}
+			
             		int j = n - (i - 1);
             		while(j <= n + (i -1)){
                 		System.out.print("*");
                 		j++;
             		}
+			
             		i++;
            	 System.out.println();
 			
