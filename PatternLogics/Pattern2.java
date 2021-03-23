@@ -16,6 +16,7 @@ public class Solution {
                 System.out.print(" ");
                 sp++;
             }
+		
             int j = 1;
             int c = i;
             while(j <= i){
@@ -23,6 +24,7 @@ public class Solution {
                 c++;
                 j++;
             }
+		
             j = 1;
             int k = 2 * (i-1);
             while(j <= i - 1){
