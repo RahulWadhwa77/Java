@@ -25,7 +25,6 @@ class ClassC extends ClassB{
 	}
 	
 	void methodC() {
-		
 		System.out.println("I am a method of ClassC");
 	}
 }
