@@ -26,6 +26,5 @@ public class ArrayExample {
 		 * int[] a[],b; -- 'a' is 2D but 'b' is 1D array
 		 * int[][]a,[]b; - error 
 		 */
-		
 	}
 }
