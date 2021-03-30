@@ -18,6 +18,5 @@ public class ArrayExample {
 		//Jagged array with initialized values
 		
 		int[][] arr = {{1,2,3,4},{5,6,7}}; // 1st row has 4 elements 1,2,3,4 and 2nd row has 3 elements 5,6,7
-		
 	}
 }
