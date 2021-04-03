@@ -1,6 +1,7 @@
 package revision;
 
 //ClassA is the parent class.
+
 class ClassA{
 	void methodA() {
 		System.out.println("I am a method of Class A");
@@ -8,6 +9,7 @@ class ClassA{
 }
 
 //ClassB is the child class of parent ClassA.
+
 class ClassB extends ClassA {				//use of keyword extends.
 	void methodB() {
 		System.out.println("I am a method of Class B");
