@@ -1,6 +1,7 @@
 package revision;
 
 class ClassA{
+	
 	void methodA() {
 		System.out.println("I am a method of ClassA");
 	}
