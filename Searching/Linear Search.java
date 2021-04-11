@@ -1,6 +1,7 @@
 package revision;
 
 public class LinearSearch {
+	
 	public static void main(String[] args) {
 		
 		int[] arr = new int[] {3,5,2,1,4};	//Integer type array i.e arr of size 5
