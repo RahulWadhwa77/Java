@@ -4,7 +4,6 @@ package com.company;
 import java.util.Scanner;
 
 public class ArrayExample {
-    
     public static void main(String[] args) {
 
         String[] arr_string = new String[3];
