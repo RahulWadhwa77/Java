@@ -1,7 +1,6 @@
 package revision;
 
 class SelectionSort {   
-   
    public static void main(String args[]){
 
       int array[] = {10, 25, 20, 63, 96, 57};   //unsorted int type array.
