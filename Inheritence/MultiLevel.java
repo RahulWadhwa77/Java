@@ -7,7 +7,6 @@ class ClassA{
 }
 
 class ClassB extends ClassA{
-	
 	void methodB() {
 		System.out.println("I am a method of ClassB");
 	}
