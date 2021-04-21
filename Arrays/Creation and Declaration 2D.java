@@ -1,6 +1,7 @@
 package revision;
 
 public class ArrayExample {
+	
 	public static void main(String[] args) {
 		
 		int[][] arr1;				    //declaration of array named 'arr1' of type int
