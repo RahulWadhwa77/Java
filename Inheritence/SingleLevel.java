@@ -14,7 +14,6 @@ class ClassB extends ClassA {				//use of keyword extends.
 	}
 	
 	public static void main(String[] args) {
-		
 		ClassB object = new ClassB();		//object of ClassB
 		object.methodA();			//calling mehtodA() of ClassA i.e parent class.
 		object.methodB();			//calling methodB() within the class. 
