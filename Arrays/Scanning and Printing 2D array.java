@@ -3,7 +3,6 @@ package revision;
 import java.util.*;
 
 public class ArrayExample {
-	
     public static void main(String[] args) {
 
         String[][] arrS = new String[2][3];				//String array of 2 rows and 3 columns
