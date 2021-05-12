@@ -4,6 +4,7 @@
 package revision;
 
 public class ArrayExample {
+	
 	public static void main(String[] args) {
 		
 		int[][] arr1;				     //declaration of array 'arr1'
