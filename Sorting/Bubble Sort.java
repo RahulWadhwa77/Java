@@ -7,7 +7,6 @@ public class BubbleSort {
 	public static void main(String[] args) {
 		
 		int[] arr = new int[] { 4, 1, 2, 5, 3 };	//unsorted integer type array i.e arr consisting of 5 elements.
-
 		for (int i = 0; i < arr.length; i++) {
 		  boolean flag = true;
 		  for (int j = 0; j < arr.length - i - 1; j++) {
