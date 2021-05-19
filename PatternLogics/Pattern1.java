@@ -27,7 +27,6 @@ public class Solution {
 			
             		i++;
            	 System.out.println();
-			
         	}
 	}
 }
