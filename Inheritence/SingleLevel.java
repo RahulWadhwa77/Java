@@ -6,7 +6,6 @@ class ClassA{
 		System.out.println("I am a method of Class A");
 	}
 }
-
 //ClassB is the child class of parent ClassA.
 class ClassB extends ClassA {				//use of keyword extends.
 	void methodB() {
