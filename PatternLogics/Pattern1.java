@@ -23,7 +23,6 @@ public class Solution {
                 		System.out.print("*");
                 		j++;
             		}
-			
             		i++;
            	 System.out.println();
         	}
