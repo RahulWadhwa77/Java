@@ -4,6 +4,7 @@ Here, current element is compared with the immediate next element. If current el
 package revision;
 
 public class BubbleSort {
+	
 	public static void main(String[] args) {
 		
 		int[] arr = new int[] { 4, 1, 2, 5, 3 };	//unsorted integer type array i.e arr consisting of 5 elements.
