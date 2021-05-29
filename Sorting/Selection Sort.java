@@ -19,7 +19,6 @@ class SelectionSort {
          array[min] = array[i];
          array[i] = temp;
       }
-
       for (int i = 0 ;i< size; i++){
          System.out.print(array[i] + " ");
       }
