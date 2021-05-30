@@ -1,6 +1,7 @@
 package revision;
 
 class ClassA{
+
 	void methodA() {
 		System.out.println("I am a method of ClassA");
 	}
@@ -19,7 +20,6 @@ class ClassC extends ClassB{
 		objectC.methodB();
 		objectC.methodC();
 	}
-	
 	void methodC() {
 		System.out.println("I am a method of ClassC");
 	}
