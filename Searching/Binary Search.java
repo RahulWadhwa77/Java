@@ -1,5 +1,4 @@
 //BinarySearch works only on sorted collection.
-
 package revision;
 
 public class BinarySearch {
