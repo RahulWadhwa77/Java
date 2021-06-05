@@ -1,5 +1,4 @@
 //image given in imgs directory with same file name "Pattern1"
-
 import java.util.Scanner;
 
 public class Solution {
