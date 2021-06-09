@@ -1,7 +1,6 @@
 package revision;
 
 //ClassA is the parent class
-
 class ClassA{
 	void methodA() {
 		System.out.println("I am a method of Class A");
